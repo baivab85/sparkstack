@@ -1,0 +1,21 @@
+#sidebar {
+    background:linear-gradient(to top,#fff,#333);
+    color: #333;
+    height: 100vh;
+}
+
+.selectpicker option:focus{
+    background-color: #343a40;
+}
+
+#job-list {
+    padding: 20px;
+    /* border:2px solid green; */
+}
+
+.job-item {
+    border: 1px solid #ddd;
+    margin-bottom: 10px;
+    padding: 10px;
+    border-radius: 5px;
+}

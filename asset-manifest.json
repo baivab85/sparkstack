@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/sparkstack/static/css/main.7df545fd.css",
+    "main.js": "/sparkstack/static/js/main.e0e97a72.js",
+    "static/js/787.81e59c40.chunk.js": "/sparkstack/static/js/787.81e59c40.chunk.js",
+    "static/media/sun.png": "/sparkstack/static/media/sun.b038ab61d40f8a5c8e6e.png",
+    "index.html": "/sparkstack/index.html",
+    "main.7df545fd.css.map": "/sparkstack/static/css/main.7df545fd.css.map",
+    "main.e0e97a72.js.map": "/sparkstack/static/js/main.e0e97a72.js.map",
+    "787.81e59c40.chunk.js.map": "/sparkstack/static/js/787.81e59c40.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7df545fd.css",
+    "static/js/main.e0e97a72.js"
+  ]
+}
